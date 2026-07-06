@@ -1,1 +1,1 @@
-# Tiny-Py-Games
+# Tiny Python Projects
